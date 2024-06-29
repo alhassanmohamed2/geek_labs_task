@@ -1,0 +1,1 @@
+Counter({'$NVDA': 26, '$TSLA': 19, '$SPY': 18, '$SPX': 13, '$AAPL': 7, '$VIX': 7, '$MSFT': 6, '$NFLX': 5, '$AMZN': 5, '$META': 4, '$GOOG': 4, '$WISH': 4, '$AMD': 2, '$BTC': 2, '$MSTR': 2, '$CEI': 1, '$SMCI': 1, '$ANF': 1, '$SIVB': 1, '$TLT': 1, '$QQQ': 1, '$ZM': 1, '$ROKU': 1, '$PLTR': 1, '$SNAP': 1, '$BABA': 1, '$PYPL': 1})
